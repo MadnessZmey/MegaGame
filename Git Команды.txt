@@ -1,4 +1,5 @@
 git status
+git init (в первый раз)
 git add .
 git commit -m "(Название)"
 (Только в первый раз) git remote add origin https://github.com/MadnessZmey/MegaGame.git
